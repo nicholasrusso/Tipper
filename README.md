@@ -21,7 +21,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- Added Flashlight button in app.
+* [X] Added Flashlight button in app.
+* [X] Added Bill Split
 
 ## Video Walkthrough 
 
